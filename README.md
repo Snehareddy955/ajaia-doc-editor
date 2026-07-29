@@ -70,7 +70,6 @@ https://ajaia-docs-backend-zbin.onrender.com
 
 Frontend:
 (Add Vercel URL)
-
 ## Author
 
 Sneha Reddy
@@ -183,8 +182,7 @@ Sneha Reddy
 
 
 ## GitHub Repository
-
-(Add GitHub URL)
+ https://github.com/Snehareddy955
 
 
 ## Live Demo
@@ -195,8 +193,6 @@ https://ajaia-docs-backend-zbin.onrender.com
 
 
 Frontend:
-
-(Add Vercel URL)
 
 
 ## Completed Features
@@ -225,4 +221,3 @@ pytest
 
 Status:
 2 tests passed
-## Demo Video
